@@ -8,10 +8,11 @@ We help your airport pickup need.
 
 ## SPO
 
-1. download the pickup app
-2. confirm the schedule
-3. confirm with the client for more detail, eg wearning code, suit cases (optional)
-4. pickup
-5. receive the service fee
+1. 下載軟件
+2. 確認時間
+3. 確認客戶信息，比如行李，衣著 (預選)
+4. 機場接送
+5. 成功送達目的地, 結束旅程
+6. 獲得收益回報
 
-\*\* we pay higher then Uber/Lyft driver!
+\*\* 我們支付比 Uber/Lyft 更高的報酬
