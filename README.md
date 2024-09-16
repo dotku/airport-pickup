@@ -6,9 +6,9 @@ We help your airport pickup need.
 
 - SFO airport pickup
 
-## SPO
+## SOP
 
-1. 下載軟件
+1. 下載接送 app 軟件
 2. 確認時間
 3. 確認客戶信息，比如行李，衣著 (預選)
 4. 機場接送
