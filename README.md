@@ -13,3 +13,5 @@ We help your airport pickup need.
 3. confirm with the client for more detail, eg wearning code, suit cases (optional)
 4. pickup
 5. receive the service fee
+
+\*\* we pay higher then Uber/Lyft driver!
